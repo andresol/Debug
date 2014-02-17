@@ -1,4 +1,4 @@
-Debug
+Debug Web Applications
 =====
 
 Debug web applications very easy. Just deploy [Debug.war](https://github.com/andresol/Debug/blob/master/Debug/bin/Debug.war?raw=true) on a web server. Restart and go to /Debug. 
