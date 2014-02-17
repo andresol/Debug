@@ -19,15 +19,15 @@ class=java.lang.List. Find the jar that contains. Result is: Class java.io.Unsup
 
 What the app will produce:
 
-OS: Mac OS X
+OS: Mac OS X<br/>
 Java version: 1.7.0_45
-Input Arguments: -agentlib:jdwp=transport=dt_socket,suspend=y,address=localhost:58293 -Dfile.encoding=US-ASCII 
-Uptime: Days: 0 Hours: 0 Minutes: 0 Seconds: 14
-Total memory: 245 MB.
-Total free memory: 221 MB (90%)
-Max old generation memory: 2730 MB.
-Used old generation memory: 0 MB.
-Load: 1.91259765625 last min.
+Input Arguments: -agentlib:jdwp=transport=dt_socket,suspend=y,address=localhost:58293 -Dfile.encoding=US-ASCII <br/>
+Uptime: Days: 0 Hours: 0 Minutes: 0 Seconds: 14<br/>
+Total memory: 245 MB.<br/>
+Total free memory: 221 MB (90%)<br/>
+Max old generation memory: 2730 MB.<br/>
+Used old generation memory: 0 MB.<br/>
+Load: 1.91259765625 last min.<br/>
 
 ClassPath(java.class.path): /Users/user/Documents/Development/apache-tomcat-7.0.47/bin/bootstrap.jar:file:/Users/user/Documents/workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/Debug/WEB-INF/classes/;
 
@@ -40,10 +40,10 @@ file:/Users/user/Documents/Development/apache-tomcat-7.0.47/bin/bootstrap.jar;â€
 Parents classpath: AppClassLoader
 file:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/ext/dnsns.jar;â€¦.
 
-Thread id: 1
-Thread state: RUNNABLE
-Thread CPU time: 0.755237 Seconds
-Thread Name: main
+Thread id: 1<br/>
+Thread state: RUNNABLE<br/>
+Thread CPU time: 0.755237 Seconds<br/>
+Thread Name: main<br/>
 java.net.PlainSocketImpl.socketAccept(Native Method)
 java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:398)
 java.net.ServerSocket.implAccept(ServerSocket.java:530)
