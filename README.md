@@ -15,8 +15,9 @@ filter=true only internal threads. Means only internal threads is displayed.
 deadlock=true check for deadlocks. Check for thread deadlocks.
 class=java.lang.List. Find the jar that contains. Result is: Class java.io.UnsupportedEncodingException: jar:file:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/rt.jar!/java/io/UnsupportedEncodingException.class
 
-Result:
-`OS: Mac OS X
+What the app will produce:
+
+OS: Mac OS X
 Java version: 1.7.0_45
 Input Arguments: -agentlib:jdwp=transport=dt_socket,suspend=y,address=localhost:58293 -Dfile.encoding=US-ASCII 
 Uptime: Days: 0 Hours: 0 Minutes: 0 Seconds: 14
@@ -54,4 +55,3 @@ sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.jav
 java.lang.reflect.Method.invoke(Method.java:606)
 org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:322)
 org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:456)
-`
