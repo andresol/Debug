@@ -3,12 +3,14 @@ Debug Web Applications
 
 Debug web applications very easy. Just deploy [Debug.war](https://github.com/andresol/Debug/blob/master/Debug/bin/Debug.war?raw=true) on a web server. Restart and go to /Debug. 
 
-It can help you resolve problems like. Hanging threads? Very CPU intense jobs? Trouble finding the class inside a class path jungle? Memory usage? Why is GC blocking my app?  
+It can help you resolve problems like.
 
-It will display threads, memory stats, thread cpu usage, classPaths and find the jar containing the class inside the classpath. 
+Hanging threads? Very CPU intense jobs? Trouble finding the class inside a class path jungle? Memory usage? Why is GC blocking my app? Memory leakage? 
+
+It will display threads, memory stats, thread cpu usage, classPaths and find the jar containing the class inside the classpath. It also supports IBM Websphere.
 
 Usage: 
-/Debug
+e.g http://localhost:8080/Debug
 
 Parameters:
 filter=true only internal threads. Means only internal threads is displayed.
